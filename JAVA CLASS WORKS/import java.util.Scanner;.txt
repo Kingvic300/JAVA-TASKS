@@ -1,0 +1,64 @@
+import java.util.Scanner;
+public class Nokia{
+	public static void main(String[] victor){
+	System.out.printf("Welcome to your Nokia phone\n1->Phone book\n2->Messages\n3->Chat\n4->Call register\n5->Tones\n6->Settings\n7->Call divert\n8-Games>\n9->Calculator\n10->Reminders\n11->Clock\n12->Profiles\n13->SIM services\n");
+	System.out.println(button);
+	Scanner input=new Scanner(System.in);
+	System.out.printf("click on a button");
+		int numnber=input next.Int();
+	
+	Switch(input){
+		case1:System.out.print("Phone book");{
+        Switch(Phone book){
+            	Case1:System.out.print("Search");
+            	Case2:System.out.print("Service Nos.");
+            	Case3:System.out.print("Add name");
+            	Case4:System.out.print("Erase");
+            	Case5:System.out.print("Edit");
+            	Case6:System.out.print("Assign tone");
+            	Case7:System.out.print("Send b'card");
+            	Case8:System.out.print("Options");{
+		Switch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+}

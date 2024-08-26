@@ -178,7 +178,7 @@ switch(MessagesSettings){
 				break;
 		case 4:
 			System.out.println("erase recent call lists");
-}
+
 				break;
 		case 5:
 			System.out.println("1: last call duration\n2:All calls'duration\n3:Received calls'duration\n4:dialled calls duration\n5:clear timers");
@@ -244,6 +244,7 @@ System.out.println("cost settings");
 				break;
 		case 8:
 			System.out.println("Prepaid credit");
+}
 }switch (choice) {
     case 5:
         System.out.println("Tones");
