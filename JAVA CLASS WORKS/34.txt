@@ -1,3 +1,0 @@
-import java.util.Scanner;
-public class Comparison {
-public static void main(System.in)
