@@ -14,7 +14,7 @@ public class MortgageCalculator{
 	double denomin = Math.pow((1+monthlyrate),(numberofmonths))-1;
 	double payment = numerate/denomin;
 	double monthlypayment = principal *payment;
-	System.out.printf("your monthly payment is" + '.2f' + "$" + monthlypayment); 
+	System.out.printf("your monthly payment is" + "$" + monthlypayment); 
 	
 	 
 
