@@ -5,7 +5,7 @@ public class Multiplication2 {
 		for(int count = 1; count <=9; count++){			
 
 			for(int counter = 1; counter < 10; counter++){
-	System.out.print(count+"x"+counter+"="+(count*counter)+ "    ");
+	System.out.print(count+"x"+counter+"="+(count*counter)+ "\t ");
 		
 			}
 		System.out.println(" ");
