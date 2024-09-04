@@ -28,8 +28,8 @@ public class PizzaApp {
             numberOfSlices = 12;
             pricePerBox = 4200;
         }
-
-        int boxesOfPizza = ( guests / numberOfSlices)+1;
+	//if(numberOfSlices!=0){
+        int boxesOfPizza = (double)Math.ceil(guests/numberOfSlices);
         int totalSlice = boxesOfPizza * numberOfSlices;
         int leftOver = totalSlice - guests;
         int totalPrice = pricePerBox * boxesOfPizza;
@@ -37,5 +37,8 @@ public class PizzaApp {
         System.out.println("Number of pizza to buy: " + boxesOfPizza + " boxes");
         System.out.println("Number of leftover: " + leftOver + " slices");
         System.out.println("Price: " + totalPrice);
+	//}else{
+		System.out.println("error: " + "number of slices cannot be zero");
+	//}
     }
 }
