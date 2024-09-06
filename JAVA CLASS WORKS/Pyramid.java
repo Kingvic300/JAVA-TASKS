@@ -6,13 +6,10 @@ public class Pyramid{
 		System.out.println("input a number:"); 
 		int number = input.nextInt(); 
 
-		for(int count = 1; count <=  number; count++){ 
-			for(int counter = number - count; counter >0; counter--){
-				System.out.print(" ");
+		for(int count = 1; count <=number; count++){ 
+			for(int counter = number; counter <=number; counter++){
+				System.out.print(number);
 		}
-		//for(int triangle = count; triangle >0; triangle--){
-		//	System.out.print(triangle);
-		//}
 		System.out.println();
 		}
 	}

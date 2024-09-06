@@ -4,21 +4,15 @@ public class Triangle {
 	Scanner input = new Scanner(System.in);
 	System.out.print("Enter number of sides: "); 
 	int side = input.nextInt();
-		for (int count = 0; count<=side; count++){
-			System.out.println(" "+"  "); 
-			for (int counter = 1; counter <=side;counter++){
+		for (int count = 1; count<=side; count++){ 
+			for (int counter = count-1; counter<=side-count;counter++){
 				System.out.print(" * ");
 			}
-				 
+			System.out.println();	 
 		}
-	
-		for (int count = 0; count<=side; count++){
-			System.out.print(" * ");
-		for (int counter = 1; counter >0; counter--){	
-			System.out.println(" ");
-		}
-			System.out.println();
-		} 
+
+			
+		 
 	}
 }
 
