@@ -5,14 +5,14 @@ public class Reversal{
 
 		System.out.println("Enter number to reverse:");
 		int number = input.nextInt();
-		reverse(number);
+		System.out.println(reverse(number));
 	}
-	public static void reverse(int number){
+	public static int reverse(int number){
 		int num = 0;
 		while(number!=0){
 			num = num*10 + number%10;
 			number = number/10;
 		}
-		System.out.println("number reversed is:" + num);
+		return num;
 	}
 }
