@@ -3,11 +3,12 @@ public class TicTacToe{
 	public static void main(String[] args){
 
 	Scanner input = new Scanner(System.in);
-	char[][] board = {{' ','|',' ','|',' '},
-			  {'-','+','-','+','-'},
-			  {' ','|',' ','|',' '},
-			  {'-','+','-','+','-'},
-			  {' ','|',' ','|',' '}};
+	char[][] board = {{' ',' ','|',' ',' ',' ','|',' ',' '},
+			  {' ','-','+',' ','-',' ','+','-',' '},
+			  {' ',' ','|',' ',' ',' ','|',' ',' '},
+			  {' ','-','+',' ','-',' ','+','-',' '},
+			  {' ',' ','|',' ',' ',' ','|',' ',' '}};
+
 	int number = 0;
 
 	System.out.println("First player turn ranging from 1 to 9 ");
@@ -38,32 +39,33 @@ public class TicTacToe{
 		}
 		
 		switch(number){
+	
 			case 1:
 				board[0][0] = character;
 				break;
 			case 2:
-				board[0][2] = character;
+				board[1][3] = character;
 				break;
 			case 3:
-				board[0][4] = character;
+				board[1][5] = character;
 				break;
 			case 4:
-				board[2][0] = character;
+				board[3][1] = character;
 				break;
 			case 5:
-				board[2][2] = character;
+				board[3][3] = character;
 				break;
 			case 6:
-				board[2][4] = character;
+				board[3][5] = character;
 				break;
 			case 7:
-				board[4][0] = character;
+				board[5][1] = character;
 				break;
 			case 8:
-				board[4][2] = character;
+				board[5][3] = character;
 				break;
 			case 9:
-				board[4][4] = character;
+				board[5][5] = character;
 				break;
 			//default:
 			//	break;
