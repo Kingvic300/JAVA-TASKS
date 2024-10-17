@@ -2,8 +2,6 @@ import java.util.Arrays;
 public class StringCharacters{
 	public static void main(String[] args){
 		System.out.print(Characters("Victor"));
-		//System.out.print(Characters("Vcctor"));
-
 	}
 	public static boolean Characters(String words){
 		for(int count = 0;count<words.length();count++){ 

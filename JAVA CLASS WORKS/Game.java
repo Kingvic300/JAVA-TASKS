@@ -8,7 +8,7 @@ public class Game{
 		String[] words = {"level","gerald","victor","jesse","akerele"};
 		Random input = new Random();
 		System.out.println("Enter a letter in the word");
-		String name = input.next();
+		String name = input.nextLine();
 		String[] randomWord = words;
 			System.out.print(randomWord); 
 	}
