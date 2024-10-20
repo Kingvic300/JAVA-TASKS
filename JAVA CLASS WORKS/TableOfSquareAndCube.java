@@ -6,10 +6,13 @@ public class  TableOfSquareAndCube{
 	int number = input.nextInt();
 	int square = 0;
 	int cube = 0;
-	square = number*number;
-	cube = number*number*number;
-	System.out.print("number"+ "\tsquare" + "\tcube:");
+	int num = 0;
+	while(num <= 10){
+	square = num*num;
+	cube = num*num*num;
+	num++;
+	System.out.println(num+ "\t"+square + "\t"+cube);
 	
-		
+	}	
 	}
 }

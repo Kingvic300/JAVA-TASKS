@@ -4,9 +4,9 @@ public class TicTacToe{
 
 	Scanner input = new Scanner(System.in);
 	char[][] board = {{' ',' ','|',' ',' ',' ','|',' ',' '},
-			  {' ','-','+',' ','-',' ','+','-',' '},
+			  {'-','-','+','-','-','-','+','-','-'},
 			  {' ',' ','|',' ',' ',' ','|',' ',' '},
-			  {' ','-','+',' ','-',' ','+','-',' '},
+			  {'-','-','+','-','-','-','+','-','-'},
 			  {' ',' ','|',' ',' ',' ','|',' ',' '}};
 
 	int number = 0;
@@ -44,28 +44,28 @@ public class TicTacToe{
 				board[0][0] = character;
 				break;
 			case 2:
-				board[1][3] = character;
+				board[0][4] = character;
 				break;
 			case 3:
-				board[1][5] = character;
+				board[0][8] = character;
 				break;
 			case 4:
-				board[3][1] = character;
+				board[2][0] = character;
 				break;
 			case 5:
-				board[3][3] = character;
+				board[2][4] = character;
 				break;
 			case 6:
-				board[3][5] = character;
+				board[2][8] = character;
 				break;
 			case 7:
-				board[5][1] = character;
+				board[4][0] = character;
 				break;
 			case 8:
-				board[5][3] = character;
+				board[4][4] = character;
 				break;
 			case 9:
-				board[5][5] = character;
+				board[4][8] = character;
 				break;
 			//default:
 			//	break;
