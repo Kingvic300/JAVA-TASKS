@@ -2,8 +2,6 @@ import java.util.Scanner;
 public class  CreditCardValidator{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
-		try {
-
 			System.out.println("        Hello, Kindly Enter Card Details to verify      ");
 				String cardNumber = input.next();
 		
@@ -26,11 +24,7 @@ public class  CreditCardValidator{
 			System.out.println("Credit Card Length is: "+cardLength(array));
 			System.out.print("THANK YOU");
 		}
-		}catch (Exception e) {
 		
-			System.out.println("Invalid Input");
-
-		}
 	}
 
 	public static String cardType(String cardNumber){
