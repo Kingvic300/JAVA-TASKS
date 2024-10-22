@@ -8,10 +8,7 @@ public class  CreditCardValidator{
 	
 		if(cardNumber.isEmpty()){
 			System.out.print("Invalid card number");
-		}
-
-		if(!cardNumber.matches("\\d+")){
-			System.out.println("Invalid card number");
+	
 		}else{
 			int [] array = new int [cardNumber.length()];
 			for (int count = 0;count < cardNumber.length();count ++) {
