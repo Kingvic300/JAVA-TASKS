@@ -1,8 +1,8 @@
 public class TrianglePrintingProgram{
 	public static void main(String[] args){
-		//PatternA();
+		PatternA();
 		//PatternB();
-		PatternC();
+		//PatternC();
 	}
 	public static void PatternA(){
 		for(int count = 0; count<=10;count++){

@@ -1,4 +1,4 @@
-public class Multiplication2 {
+public class Multiplication{
 	public static void main(String[] args){
 	for(int count = 0; count <=10; count++){
 		for(int counter = 1; counter <=10;counter++){
