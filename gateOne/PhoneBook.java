@@ -27,8 +27,6 @@ public class PhoneBook{
 		return email;
 	}
 	public static void addContact(){
-		ArrayList<Phonebook> phonebook = new ArrayList<>();
-
 		Scanner input = new Scanner(System.in);
 
 		System.out.print("Enter your name: ");
@@ -45,9 +43,5 @@ public class PhoneBook{
 		}
 		System.out.print("Enter your email: ");
 			String email = input.next();
-
-		Phonebook contact = new Phonebook (name, address, number, email);
-			phoneBook.add(contact);
 	}
-
 }

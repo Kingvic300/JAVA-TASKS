@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.util.ArrayList;
 public class PhoneBookApp{
 	public static void main(String[] args){
-		ArrayList<Phonebook> phonebook = new ArrayList<>();
 
 		System.out.println(" Welcome to your PhoneBookApp\n Here are the list of what you can do\n 1-> Add contact\n 2-> Remove or block contact\n 3-> Search for contact\n 4-> Edit contacts\n 5-> exit ");
 	Scanner input = new Scanner(System.in);
