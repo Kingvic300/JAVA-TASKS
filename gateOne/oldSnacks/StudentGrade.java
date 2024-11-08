@@ -17,7 +17,7 @@ public class StudentGrade{
 		for(int count = 0; count < row; count++){
 			for(int counter = 0; counter < column; counter++){
 				System.out.print("Enter marks for student " + (count + 1) + " in subject " + (counter + 1) + ": ");
-				if(array[count][counter] < 100){
+				if(array[count][counter] < 100 && array[count][counter] > 0){
                 			array[count][counter] = input.nextInt();
 				}else{
 					break;

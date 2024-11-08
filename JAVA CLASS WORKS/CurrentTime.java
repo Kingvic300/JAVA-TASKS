@@ -1,4 +1,4 @@
-public class ShowCurrentTime{
+public class CurrentTime{
 	public static void main(String[] args){
 	long totalMilliseconds = System.currentTimeMillis();
 
@@ -14,7 +14,7 @@ public class ShowCurrentTime{
 	long totalDays =  totalHours / 24;
 	long currentDay = totalDays % 30;
 
-	System.out.println(currentDay+"  "+currentHour +":"+ currentMinute +":"+ currentSecond); 
+	System.out.println(currentHour +":"+ currentMinute +":"+ currentSecond); 
 
 	}
 }

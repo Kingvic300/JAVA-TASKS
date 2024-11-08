@@ -1,14 +1,11 @@
 import java.util.Scanner;
-public class Converter{
+public class Converter {
 	public static void main(String[] args){
 	Scanner input = new Scanner(System.in);
-	System.out.println("Enter number you want to convert:");
-	int number = input.nextInt();
-	System.out.println(mileToKilometer(mile));
-	System.out.println(kilometerToMile(kilometer));
+	System.out.println("Enter miles:");
+	double miles = input.nextDouble();
+	double KILOMETER = 1.6;
+	double kilometers = miles*KILOMETER;
+	System.out.printf("%.2f",kilometers);
 	}
-	public static double mileToKilometer(double mile){
-	
-	}
-
 } 

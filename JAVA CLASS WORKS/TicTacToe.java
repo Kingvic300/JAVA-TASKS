@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class TicTacToe{
 	public static void main(String[] args){
 
-	Scanner input = new Scanner(System.in);
+	
 	char[][] board = {{' ',' ','|',' ',' ',' ','|',' ',' '},
 			  {'-','-','+','-','-','-','+','-','-'},
 			  {' ',' ','|',' ',' ',' ','|',' ',' '},
@@ -10,17 +10,21 @@ public class TicTacToe{
 			  {' ',' ','|',' ',' ',' ','|',' ',' '}};
 
 	int number = 0;
-
-	System.out.println("First player turn ranging from 1 to 9 ");
-		int numbers = input.nextInt(); 
-	playerMoves(board, numbers, "player");
-	printBoard(board);
-
-	System.out.println("second player turn ranging from 1 to 9 ");
-		int number1 = input.nextInt(); 
-	playerMoves(board, number1, "player1");
-	printBoard(board);
-	
+	while(true){
+		Scanner input = new Scanner(System.in);
+		System.out.println("First player turn ranging from 1 to 9 ");
+			int numbers = input.nextInt(); 
+		playerMoves(board, numbers, "player");
+		printBoard(board);
+		if(numbers > 5){
+			break;
+		}
+		System.out.println("second player turn ranging from 1 to 9 ");
+			int number1 = input.nextInt(); 
+		playerMoves(board, number1, "player1");
+		printBoard(board);
+		
+	}
 	}
 	public static void printBoard(char[][] board){
 		for(char[] row : board){
@@ -67,8 +71,8 @@ public class TicTacToe{
 			case 9:
 				board[4][8] = character;
 				break;
-			//default:
-			//	break;
+			default:
+				break;
 		}
 	}
 }
