@@ -11,19 +11,19 @@ public class LargestFinder{
 		int large = array[0];
 		int num  = 0;
 
-		for(int count = 0; count < array.length; count++){
-				num += array[count];
-			if (largest < array[count]){
-				largest = array[count];
-			}
-		}
+        for (int element : array) {
+            num += element;
+            if (largest < element) {
+                largest = element;
+            }
+        }
 
-		for(int count = 0; count < array.length; count++){
-				num += array[count];
-			if (){
-				large = array[count];
-			}
-		}
+        for (int element : array) {
+            num += element;
+            if (num < large) {
+                large = element;
+            }
+        }
 		array2[0] = largest;
 		array2[1] = large;
 			System.out.print(Arrays.toString(array2));

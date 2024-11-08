@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class RandomNumber {
+public class RandomNumber2 {
 
 public static void main(String[] args){
 

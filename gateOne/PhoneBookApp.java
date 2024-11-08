@@ -1,32 +1,39 @@
-import java.util.Scanner; 
+import com.sun.nio.sctp.SctpChannel;
 import java.util.ArrayList;
+import java.util.Scanner; 
 public class PhoneBookApp{
+
 	public static void main(String[] args){
-
-		System.out.println(" Welcome to your PhoneBookApp\n Here are the list of what you can do\n 1-> Add contact\n 2-> Remove or block contact\n 3-> Search for contact\n 4-> Edit contacts\n 5-> exit ");
-	Scanner input = new Scanner(System.in);
-	System.out.println("Enter your choice");
-		int response = input.nextInt();
+        ArrayList<PhoneBook> phoneBook = new ArrayList<>();
+        try{
+		    System.out.println(" Welcome to your PhoneBookApp\n Here are the list of what you can do\n 1-> Add contact\n 2-> Remove or block contact\n 3-> Search for contact\n 4-> Edit contacts\n 5-> display contact\n 6-> exit ");
+            Scanner input = new Scanner(System.in);
+            while(true){
+	            System.out.println("Enter your choice");
+		            int response = input.nextInt();
 	
-		if(response == 1){
-			PhoneBook.addContact();
-		}
+		        if(response == 1){
+		            PhoneBook.addContact(phoneBook);
 
-		if(response == 2){ 
-			System.out.print("Not available at the moment");
-		}
+		        }else if(response == 2){
+                    PhoneBook.removeContact(phoneBook);
 
- 		if(response == 3){
-			System.out.print("Not available at the moment");
-		}
+		        }else if(response == 3){
+                    PhoneBook.searchContact(phoneBook);
 
-		if(response == 4){
-			System.out.print("Not available at the moment");
-		}
+		        }else if(response == 4){
+                    PhoneBook.editContact(phoneBook);
 
-		if(response == 5){
-			System.out.print("Thank you very much");
-		}
-	}
-	
+                }else if(response == 5){
+                    PhoneBook.displayContact(phoneBook);
+                    
+		        }else if(response == 6){
+			        System.out.println("Thank you");
+                    break;
+		        }
+	        }          
+        } catch (Exception e) {
+            System.out.println("Invalid");
+        }
+    }   
 }

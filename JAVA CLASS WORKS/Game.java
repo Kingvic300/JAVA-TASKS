@@ -6,9 +6,9 @@ public class Game{
 	}
 	public static void Hangman(){
 		String[] words = {"level","gerald","victor","jesse","akerele"};
-		Random input = new Random();
+		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a letter in the word");
-		String name = input.nextLine();
+		String name = input.next();
 		String[] randomWord = words;
 			System.out.print(randomWord); 
 	}

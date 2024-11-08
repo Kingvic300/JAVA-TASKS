@@ -1,4 +1,7 @@
 import java.util.Scanner;
+
+import static java.lang.Integer.reverse;
+
 public class reversed{
 	public static void main(String[] args){
 

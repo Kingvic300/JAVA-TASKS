@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Patterns {
+public class Patterns1 {
 	public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
 	System.out.println("Enter number of sizes: "); 
