@@ -1,12 +1,12 @@
 package TICTACTOE;
 
-public class PlayerMoves {
+public class PlayerMoves{
     public static void playerMoves(char[][] board, int number, String player){
         char character = ' ';
-        if(player.equals("player")) {
+        if(player.equals("player")){
             character = 'X';
         }else
-        if(player.equals("player1")) {
+        if(player.equals("player1")){
             character = 'O';
         }
         switch(number){
@@ -40,5 +40,25 @@ public class PlayerMoves {
             default:
                 break;
         }
+    }
+    public static boolean checkForWin(char[][] board){
+        for (int count = 0; count <= 4; count += 2) {
+            if (board[count][0]!= ' ' && board[count][0] == board[count][4] && board[count][4] == board[count][8]){
+                return true;
+            }
+        }
+        for (int counter = 0; counter <= 8; counter += 4){
+            if (board[0][counter]!= ' ' && board[0][counter] == board[2][counter] && board[2][counter] == board[4][counter]){
+                return true;
+            }
+        }
+        if (board[0][0]!= ' ' && board[0][0] == board[2][4] && board[2][4] == board[4][8]){
+            return true;
+        }
+        if (board[0][8]!= ' ' && board[0][8] == board[2][4] && board[2][4] == board[4][0]){
+            return true;
+        }
+
+        return false;
     }
 }

@@ -1,8 +1,8 @@
 package TICTACTOE;
 
-public class Board {
+public class Board{
 
-    public static void printBoard(char[][] board) {
+    public static void printBoard(char[][] board){
         for (char[] row : board) {
             for (char column : row) {
                 System.out.print(column);
@@ -10,16 +10,14 @@ public class Board {
             System.out.println();
         }
     }
-
-    public static boolean isBoardFull(char[][] board) {
+    public static boolean isBoardFull(char[][] board){
         for (int count = 0; count < board.length; count++) {
-            for (char[] chars : board) {
-                if (chars[count] == 'X' || chars[count] == 'O') {
+            for(int counter = 0; counter < board[count].length; counter++){
+                if (board[count][counter] == ' '){
                     return false;
                 }
             }
         }
         return true;
-
     }
 }
