@@ -14,10 +14,21 @@ public class StudentGrade{
 
 		int[][] array = new int[row][column];
 
+<<<<<<< HEAD
 		for (int count = 0; count < row; count++) {
 			for (int counter = 0; counter < column; counter++) {
 				System.out.println("Enter marks for student " + (count + 1) + " in subject " + (counter + 1) + ": ");
 				array[count][counter] = input.nextInt();
+=======
+		for(int count = 0; count < row; count++){
+			for(int counter = 0; counter < column; counter++){
+				System.out.print("Enter marks for student " + (count + 1) + " in subject " + (counter + 1) + ": ");
+				if(array[count][counter] < 100 && array[count][counter] > 0){
+                			array[count][counter] = input.nextInt();
+				}else{
+					break;
+				}
+>>>>>>> be67abf0c4f921afdfa2c61fabb9e921e0b17b05
 			}
 		}
 		System.out.print("student");
