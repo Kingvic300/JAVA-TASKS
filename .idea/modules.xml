@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/Alogrithm.iml" filepath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/Alogrithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA CLASS WORKS/JAVA CLASS WORKS.iml" filepath="$PROJECT_DIR$/JAVA CLASS WORKS/JAVA CLASS WORKS.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA-TASKS.iml" filepath="$PROJECT_DIR$/JAVA-TASKS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA CLASS WORKS/gateOne/gateOne.iml" filepath="$PROJECT_DIR$/JAVA CLASS WORKS/gateOne/gateOne.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26f797bf-2017-4718-a79c-de617c6f9033" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/ARRAYS/AirlineReservationsSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/ARRAYS/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/ARRAYS/UnsortedDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/src/codingChallenges/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/src/codingChallenges/AirlineReservationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/src/codingChallenges/AtmMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/src/codingChallenges/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/test/codingChallenges/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/test/codingChallenges/AirlineReservationSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/Alogrithm/test/codingChallenges/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/BillingInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/CreditCardInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Estore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Sellers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/EStore/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/PhaseGateOne/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/Alogrithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/src/codingChallenges/AirConditioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/src/codingChallenges/ArrayDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/src/codingChallenges/ArrayOfZerosAndOnes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/src/codingChallenges/CountOccurrance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/src/codingChallenges/MedianOfTwoSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/src/codingChallenges/Quicksort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/src/codingChallenges/Zones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/test/codingChallenges/AirConditionerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/test/codingChallenges/ArrayDoubleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/test/codingChallenges/ArrayOfZerosAndOnesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/test/codingChallenges/CountOccurranceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/test/codingChallenges/MedianOfTwoSortedArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/test/codingChallenges/QuicksortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alogrithm/test/codingChallenges/ZonesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/ARRAYS/ArrayAddTwoIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/AdditionQuiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/AeraOfTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Algebra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/ArrayAddTwoIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/AssignGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Asterisk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/AtmMachineApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Checks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/ChristmasSong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/ClassWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/ClassWork2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Concatenates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/CreditCardCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/CurrentTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/DecreasingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/DiamondPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/DiceRollingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/DisplayPatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/FinancialApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/FinancialApplication2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Fuctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/GuessTheNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/GuessTheNumberGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/HypotenuseCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Index.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/IndexFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/LargestFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/LargestScores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/LogisticsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/MenstruationApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Multiplication2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Nokia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Nokia4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/NumberSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Occurrance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/PalindromeInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/PalindromePrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/PersonalityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Pixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/PizzaApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Pyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/PyramidTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Reversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Scores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/ShowCurrentTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/StringCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/StudentGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/TableOfSquareAndCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/TaxCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/TheDivision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/TicTacToe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/TimeConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/TrianglePatterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/TrianglePrintingProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/leapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/libraryManagementSystems/BookAdmins.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/libraryManagementSystems/BookAdmins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/libraryManagementSystems/BookUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/libraryManagementSystems/BookUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/libraryManagementSystems/LibraryStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA CLASS WORKS/libraryManagementSystems/LibraryStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/lowest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/lowestScores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/positive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/reversed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA CLASS WORKS/words.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-TASKS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-TASKS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhaseGateOne" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/Comparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/Compare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/CreditCardCalculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/CreditCardCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/Encryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/GasMileage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/Multiplication2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/TaxCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/TaxsCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/TimeConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/TimeConvertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/Triangles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/lettercounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateOne/oldSnacks/CreditCardValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateOne/oldSnacks/MBTIPersonalityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateOne/oldSnacks/MenstruationsrApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateOne/oldSnacks/StudentGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ARRAYS/ArrayLarge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ARRAYS/ArraySortedSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ATM/ATMMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ATM/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ATM/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Addition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/AdditionQuiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/AeraOfTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Algebra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArrayAddTwoIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArrayDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArrayDub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArrayReverseSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArraySortsSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ArrayYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/AssignGrades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Asterisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Asterisks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/CheckArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Checks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ChristmasSong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ClassWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Compare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Concatenates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/CreditCardCalculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/CreditCardCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/CreditCardValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/CurrentTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/DecreasingOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Determinants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Determined.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/DiamondPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/DiceRollingGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/DisplayPatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Divisible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Encryption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Factor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Factors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/FinancialApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/FinancialApplication2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Fuctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/GasMileage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/GuessTheNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/GuessTheNumberGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/HypotenuseCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/IndexFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Kata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/LargestFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/LargestScores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/LogisticsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/MathApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/MenstruationsrApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Meters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/MortgageCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Multiplication2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Multiplications.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Nokia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Nokia4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Nokias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/NumberSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Occurrance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/PalindromeInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/PalindromePrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Patterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Patterns1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/PersonalityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/PhoneBookApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Pixel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/PizzaApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Primenumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/PyramidTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/RandomNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/RandomNumber2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Reversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Scores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/ShowCurrentTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/StringCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/StudentGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TICTACTOE/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TICTACTOE/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TICTACTOE/PlayerMoves.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TICTACTOE/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TableOfSquareAndCube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskEight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskNine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskSeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskSix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskTen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaskTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaxCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TaxsCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TheDivision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TimeConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TimeConvertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TrianglePatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/TrianglePrintingProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/Triangles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/evenNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/leapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/lettercounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/lowest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/lowestScores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/oldSnacks/MBTIPersonalityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/oldSnacks/StudentGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/oldSnacks/credit_card_validator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/positive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/reversed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-TASKS/words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Asterisks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Determinants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Determined.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Divisible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Factor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Factors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Kata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/MathApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Meters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/MortgageCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Multiplications.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Nokias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Patterns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Patterns1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/Primenumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/RandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/RandomNumber2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/push/evenNumber.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kingvic300&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kingvic300/JAVA-TASKS.git&quot;,
+    &quot;accountId&quot;: &quot;93d01cec-337e-4354-bab0-c622bf7132cc&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pfZSygvNpWF0bD0DkHbzvY2umt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AirlineReservationsSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDouble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnsortedDifference.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in JAVA CLASS WORKS.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL USER/Documents/bytebuilder/JAVA-TASKS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="EStore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AirlineReservationsSystem">
+    <configuration name="AirlineReservationsSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AirlineReservationsSystem" />
+      <module name="JAVA CLASS WORKS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsortedDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnsortedDifference" />
+      <module name="JAVA CLASS WORKS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in JAVA CLASS WORKS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA CLASS WORKS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AirlineReservationsSystem" />
+        <item itemvalue="Application.UnsortedDifference" />
+        <item itemvalue="JUnit.All in JAVA CLASS WORKS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26f797bf-2017-4718-a79c-de617c6f9033" name="Changes" comment="" />
+      <created>1733159093557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733159093557</updated>
+      <workItem from="1733159094846" duration="170000" />
+      <workItem from="1733159357980" duration="21000" />
+      <workItem from="1733159390505" duration="17000" />
+      <workItem from="1733159470496" duration="206000" />
+      <workItem from="1733159842980" duration="92000" />
+      <workItem from="1733313158619" duration="101000" />
+      <workItem from="1733313334849" duration="31000" />
+      <workItem from="1733313401538" duration="356000" />
+      <workItem from="1733313782684" duration="243000" />
+      <workItem from="1733314071411" duration="55000" />
+      <workItem from="1733314158783" duration="1152000" />
+      <workItem from="1733320978322" duration="5000" />
+      <workItem from="1733329984271" duration="1428000" />
+      <workItem from="1733346506921" duration="1920000" />
+      <workItem from="1733372963098" duration="4337000" />
+      <workItem from="1733649655464" duration="93000" />
+      <workItem from="1733689455988" duration="219000" />
+      <workItem from="1733689691554" duration="39000" />
+      <workItem from="1733689773773" duration="49000" />
+      <workItem from="1733689833791" duration="49000" />
+      <workItem from="1733689898744" duration="148000" />
+      <workItem from="1733690061576" duration="122000" />
+      <workItem from="1733690194628" duration="5175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

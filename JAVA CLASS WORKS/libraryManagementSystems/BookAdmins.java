@@ -1,51 +1,58 @@
 package libraryManagementSystems;
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class BookAdmins {
-    private String libraryName;
-    private String libraryAddress;
-    private String libraryEmail;
-    private String libraryBooks;
+    private String BookAdminName;
+    private String BookAdminAddress;
+    private String BookAdminEmail;
+
 
     public String getLibraryName() {
-        return libraryName;
+        return BookAdminName;
     }
 
-    public void setLibraryName(String libraryName) {
-        this.libraryName = libraryName;
+    public void setLibraryName(String BookAdminName) {
+        this.BookAdminName = BookAdminName;
     }
 
     public String getLibraryBooks() {
-        return libraryBooks;
+        return BookAdminAddress;
     }
 
-    public void setLibraryBooks(String libraryBooks) {
-        this.libraryBooks = libraryBooks;
+    public void setLibraryBooks(String BookAdminAddress) {
+        this.BookAdminAddress = BookAdminAddress;
     }
 
     public String getLibraryEmail() {
-        return libraryEmail;
+        return BookAdminEmail;
     }
 
-    public void setLibraryEmail(String libraryEmail) {
-        this.libraryEmail = libraryEmail;
-    }
+    public void setLibraryEmail(String BookAdminEmail) {
 
-    public String getLibraryAddress() {
-        return libraryAddress;
+        this.BookAdminEmail = BookAdminEmail;
     }
-
-    public void setLibraryAddress(String libraryAddress) {
-        this.libraryAddress = libraryAddress;
+    public BookAdmins(String BookAdminName, String BookAdminAddress, String BookAdminEmail) {
+        this.BookAdminName = BookAdminName;
+        this.BookAdminAddress = BookAdminAddress;
+        this.BookAdminEmail = BookAdminEmail;
     }
+    public static void addBookAdminInfo(ArrayList<BookAdmins> library) {
+        Scanner input = new Scanner(System.in);
+        System.out.print("Enter book admin Name: ");
+        String bookAdmin = input.nextLine();
 
-    public BookAdmins(String libraryName, String libraryAddress, String libraryEmail, String libraryBooks) {
-        this.libraryName = libraryName;
-        this.libraryAddress = libraryAddress;
-        this.libraryEmail = libraryEmail;
-        this.libraryBooks = libraryBooks;
+        System.out.print("Enter book admin Address: ");
+        String bookAdminAddress = input.nextLine();
+
+        System.out.print("Enter book admin Email: ");
+        String bookAdminEmail = input.nextLine();
+
+        BookAdmins libraryBookAdmin = new BookAdmins(bookAdmin, bookAdminAddress, bookAdminEmail);
+        library.add(libraryBookAdmin);
+
+        System.out.println("Book Admin Added Successfully");
     }
-
-//    public static void addLibrary(String libraryName, String libraryAddress, String libraryEmail, String libraryBooks) {
-//
-//    }
+   // public static void
 }
