@@ -2,14 +2,10 @@ import java.util.Scanner;
 public class TicTacToe{
 	public static void main(String[] args){
 
-	
-	char[][] board = {{' ',' ','|',' ',' ',' ','|',' ',' '},
-			  {'-','-','+','-','-','-','+','-','-'},
-			  {' ',' ','|',' ',' ',' ','|',' ',' '},
-			  {'-','-','+','-','-','-','+','-','-'},
-			  {' ',' ','|',' ',' ',' ','|',' ',' '}};
 
-	int number = 0;
+        TICTACTOE.TicTacToe.board();
+
+        int number = 0;
 	while(true){
 		Scanner input = new Scanner(System.in);
 		System.out.println("First player turn ranging from 1 to 9 ");
