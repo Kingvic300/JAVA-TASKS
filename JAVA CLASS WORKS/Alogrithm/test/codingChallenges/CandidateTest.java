@@ -1,28 +1,19 @@
 package codingChallenges;
 
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 public class CandidateTest {
-    @BeforeEach
-    public void setUp() {
-        Candidate candidate = new Candidate();
+
+    @Test
+    public void getName() {
+        Candidate candidate = new Candidate("Victor",18,"male","satellite","07084159495","oladimejivictor611@gmail.com");
+        assertEquals("Victor",candidate.getName());
     }
 
     @Test
-    public void testThatAddCandidateMethodWorks() {
-        Candidate candidate = new Candidate();
-        String candidate1 = candidate.addCandidate("Victor");
-        String candidate2 = candidate.addCandidate("Victor");
-        assertEquals(2, candidate.getNumberOfCandidates());
-    }
-
-    @Test
-    public void testThatSearchCandidateMethodWorks() {
-        Candidate candidate = new Candidate();
-        String candidate1 = candidate.addCandidate("Victor");
-        assertEquals("Victor", candidate.searchCandidate("Victor"));
+    public void getVote() {
+        Candidate candidate = new Candidate("Victor",18,"male","satellite","07084159495","oladimejivictor611@gmail.com");
+        assertEquals(10000,candidate.getVote());
     }
 }

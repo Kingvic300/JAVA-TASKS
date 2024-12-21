@@ -3,34 +3,49 @@ package codingChallenges;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 public class UserTest {
 
     @Test
-    public void testThatUserCanSetName() {
-        User user = new User("Victor",13,"male","oladimejivictor611@gmail.com");
-        user.setName("Vic");
-        assertEquals("Vic",user.getName());
+    public void getName() {
+        User user = new User("Victor",18,"male","12345","oladimejivictor611@gmail.com","teacher");
+        assertEquals("Victor",user.getName());
     }
 
     @Test
-    public void testThatUserCanSetAge() {
-        User user = new User("Victor",13,"male","oladimejivictor611@gmail.com");
-        user.setAge(10);
-        assertEquals(10,user.getAge());
+    public void getAge() {
+        User user = new User("Victor",18,"male","12345","oladimejivictor611@gmail.com","teacher");
+        assertEquals(18,user.getAge());
     }
 
     @Test
-    public void testThatUserCanSetGender() {
-        User user = new User("Victor",13,"male","oladimejivictor611@gmail.com");
-        user.setGender("Female");
-        assertEquals("Female",user.getGender());
+    public void getGender() {
+        User user = new User("Victor",18,"male","12345","oladimejivictor611@gmail.com","teacher");
+        assertEquals("male",user.getGender());
     }
 
     @Test
-    public void testThatUserCanSetEmail() {
-        User user = new User("Victor",13,"male","oladimejivictor611@gmail.com");
-        user.setEmail("Victor@gmail.com");
-        assertEquals("Victor@gmail.com",user.getEmail());
+    public void getID() {
+        User user = new User("Victor",18,"male","12345","oladimejivictor611@gmail.com","teacher");
+        assertEquals("12345",user.getID());
     }
+
+    @Test
+    public void hasVoted() {
+        User user = new User("Victor",18,"male","12345","oladimejivictor611@gmail.com","teacher");
+        assertTrue(user.hasVoted());
+    }
+    @Test
+    public void voted() {
+        User user = new User("Victor",18,"male","12345");
+        user.voted(false);
+        assertTrue(user.hasVoted());
+    }
+
+//    @Test
+//    public void castVoted() {
+//        User user = new User("Victor",18,"male","12345");
+//        PollingUnit pollingUnit = new PollingUnit();
+//        pollingUnit.addCandidate("Victor",12,);
+//        assertEquals("Victor", user.);
+//    }
 }
