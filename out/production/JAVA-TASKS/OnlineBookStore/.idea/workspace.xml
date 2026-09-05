@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e385e5d-cfaf-40a8-8b7e-527d36006d78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../C++ TASKS/.idea/C++ TASKS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C++ TASKS/Compare.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C++ TASKS/Compare.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO--TASKS/.idea/GO--TASKS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GO-TASKS/.idea/GO-TASKS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/.idea/HTML-CSS TASKS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/CalculatorApp/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/CalculatorApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/CalculatorApp/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Chapters/Chapter2/exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Chapters/Chapter3/exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Chapters/Chapter4/exercise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Chapters/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Chapters/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Chapters/navbarstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/CompoundInterestCalculator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/CompoundInterestCalculator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/DineryWebsite/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/DineryWebsite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/EStoreApp/store.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/EStoreApp/store.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/EStoreApp/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Education/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/Education/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/FigmaProject/HelpEveryone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/FigmaProject/HelpEveryone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/FigmaProject/IphoneLandingPage/HelpEveryone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/FigmaProject/IphoneLandingPage/HelpEveryone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/MovieApp/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/PracticeCAL/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/PracticeCAL/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/PracticeCAL/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/To-DoListApplication/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/To-DoListApplication/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/To-DoListApplication/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/next/tech.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/practice/educlass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/practice/educlassstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/styles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../HTML-CSS TASKS/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavascriptTasks/.idea/JavascriptTasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVASCRIPT-TASKS" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVASCRIPT-TASKS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavascriptTasks/TDD/Task.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavascriptTasks/TDD/Task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavascriptTasks/TDD/Task.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JavascriptTasks/TDD/Task.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PYTHON-TASKS" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PYTHON-TASKS" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kingvic300&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kingvic300/BYTEBUILDERS.git&quot;,
+    &quot;accountId&quot;: &quot;93d01cec-337e-4354-bab0-c622bf7132cc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sDhcHreAIoHTPZJ75Obe5BZIMW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL USER/Documents/bytebuilder/JAVA-TASKS/src/libraryManagementSystems&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OnlineBookStore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OnlineBookStore" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e385e5d-cfaf-40a8-8b7e-527d36006d78" name="Changes" comment="" />
+      <created>1737996130370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737996130370</updated>
+      <workItem from="1737996131441" duration="1130000" />
+      <workItem from="1737997311981" duration="127000" />
+      <workItem from="1737997463936" duration="1345000" />
+      <workItem from="1737998856378" duration="17116000" />
+      <workItem from="1738082207523" duration="12000" />
+      <workItem from="1738082241178" duration="45000" />
+      <workItem from="1738082335326" duration="128000" />
+      <workItem from="1738082623156" duration="694000" />
+      <workItem from="1738083435679" duration="241000" />
+      <workItem from="1738228736226" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
